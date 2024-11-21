@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:smart_home/auth/login_page.dart';
 import 'package:smart_home/auth/register_page.dart';
 import 'splash_screen_page.dart';
-import 'home_page.dart';
 
 void main() {
   runApp(MyApp());
@@ -27,3 +26,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+//ghdtdjtfffyif
