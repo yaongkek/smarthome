@@ -168,6 +168,29 @@ void handleWebRequests() {
     server.send(200, "text/plain", "Kunci tertutup");
   });
 
+server.on("/lampu1/brightness", []() {
+    Serial.println("Permintaan brightness diterima.");
+    if (server.hasArg("value")) {
+        int brightness = server.arg("value").toInt();
+        Serial.printf("Brightness: %d\n", brightness);
+        // Logika kontrol lampu
+    } else {
+        Serial.println("Parameter 'value' tidak ditemukan.");
+    }
+});
+
+server.on("/lampu2/brightness", []() {
+    Serial.println("Permintaan brightness diterima.");
+    if (server.hasArg("value")) {
+        int brightness = server.arg("value").toInt();
+        Serial.printf("Brightness: %d\n", brightness);
+        // Logika kontrol lampu
+    } else {
+        Serial.println("Parameter 'value' tidak ditemukan.");
+    }
+});
+
+
   server.begin();
 }
 
@@ -238,3 +261,5 @@ void loop() {
 
   delay(5000); // 1 detik untuk pembacaan ulang
 }
+
+
