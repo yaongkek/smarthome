@@ -7,8 +7,8 @@
 #include <time.h>
 
 // WiFi credentials
-const char* ssid = "wota_wifi"; // Ganti dengan SSID WiFi kamu
-const char* password = "bayarsek"; // Ganti dengan password WiFi kamu
+const char* ssid = "wota_wifi"; // SSID WiFi 
+const char* password = "bayarsek"; // password WiFi 
 
 // Firebase credentials
 const char* firebaseHost = "smarthome-efa61-default-rtdb.firebaseio.com"; // URL database tanpa "https://"
