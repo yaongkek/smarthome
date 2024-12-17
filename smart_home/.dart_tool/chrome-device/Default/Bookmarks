@@ -1,0 +1,82 @@
+{
+   "checksum": "29d94d6d91a9fd10d82fbafab619187f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13374044411488818",
+            "date_last_used": "0",
+            "guid": "04ae0951-0cb9-4271-a0ad-b8b8bee47ceb",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tambahkan judul - Presentasi - Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGUQqBQIGs/xEXghxpCvMZQJGXPwz1xnw/edit",
+            "visit_count": 1
+         }, {
+            "date_added": "13374159677405854",
+            "date_last_used": "0",
+            "guid": "489a39d4-81c9-4ca4-9af4-f292221f092f",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "poster alam indonesia - Poster - Canva",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.canva.com/design/DAGHiPkl0Rk/I-LjkMlrixj9H1N11iLdCw/edit",
+            "visit_count": 1
+         }, {
+            "date_added": "13377264711044333",
+            "date_last_used": "0",
+            "guid": "25a67512-3c96-4153-80b6-46be3ad690d6",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "mencoba-873c3-default-rtdb.firebaseio.com/test.json",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mencoba-873c3-default-rtdb.firebaseio.com/test.json",
+            "visit_count": 1
+         } ],
+         "date_added": "13377606074619373",
+         "date_last_used": "0",
+         "date_modified": "13377264711044333",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377606074619379",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377606074619381",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCAEYZnKTAQAAEgAqGGV0eE5SVjFJZ1Z3UEU4Z0N2bHRINEE9PUgDoAYHEqwBCAgSpwEKHHFRZ3g5RGp6cDh0R0VVYXFCc1ZLK1I4aWtjMD0SJDI1YTY3NTEyLTNjOTYtNDE1My04MGI2LTQ2YmUzYWQ2OTBkNhgAIAAoADCAsJiTtzI47LKYk7cyQOyymJO3MkocUFdNS1lINzU1NzhCR2kvZjNLaFdtVVIzdW1NPVoeIhxvc2h6Znh3T1hJdm1SYXRsWjNCVTlxcktvZm89ZQAAAADCPgJgBRKsAQgGEqcBChxDUHc3ajBqb3BNWDZwellyQjYwb3hFN28rQzA9EiQwNGFlMDk1MS0wY2I5LTQyNzEtYTBhZC1iOGI4YmVlNDdjZWIYACAAKAAwtuPKgq0yOPKB0ZOrMkDygdGTqzJKHDlybHRqOWlWWjBKc20wbEl5WkQybnVZZktSMD1aHiIcMzUzY2N4RHY3Z3gxWnJWUEd5RXcvelpWUUZBPWVSHaNlwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOTA4OTRkMjQtMjgwMy01NTMyLTk4MWEtZmE1YmVmOWUwYmVhGAAgACgAMMSl94ndMTjdr/eJ3TFA3a/3id0xShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAcSpwEKHE9MQ1ZOV1c1ZjM2czV0c2VEbTRPdGdIT3U0OD0SJDQ4OWEzOWQ0LTgxYzktNGNhNC05YWY0LWYyOTIyMjFmMDkyZhgAIAAoADDv0MeCrTI49pfMyqsyQPaXzMqrMkocdmp5NDNhSmVybUpBMEFEb2RjVlJGVlVNbmhVPVoeIhxRdUcrYVhxNHhaZWlNV1NZeE9LUCs2RDJPelE9ZUK0k8LCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRhOTAyMzdiYS02ZmE3LTVhMGMtYTExNS1hMWQ3ZTdkNGE3MDUYACAAKAAwxaX3id0xOP6v94ndMUD+r/eJ3TFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMzQ0MTNiNzUtYzA0Ny01MjVhLTgyZDYtNDllMmQ2NTU3NjlhGAAgACgAMMql94ndMTjJsPeJ3TFAybD3id0xShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
